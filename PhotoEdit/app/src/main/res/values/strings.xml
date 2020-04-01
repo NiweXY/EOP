@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Фото редактор</string>
+    <string name="photo_result_prefix">PhotoEditorApp_result_</string>
+    <string name="photo_saved_toast_string">Збережено!</string>
+    <string name="photo_preview_prefix">PhotoEditorApp_</string>
+    <string name="directory_name">/PhotoEditorApp</string>
+    <string name="permissions_message">Усі дозволи не надані! \ Додаток може не працювати належним чином. Хочете спробувати ще раз?</string>
+    <string name="toast_message">Вибачне,дозволу не має!</string>
+</resources>
